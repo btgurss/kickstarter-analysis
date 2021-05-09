@@ -12,7 +12,7 @@ I performed an outcomes based on launce date anaylsis by creating a pivot table 
 
 ## Conclusions Based on Launch Date
 After completing the pivot table and subsequent line graph I was able to conclude that the months of May, June, and July seem to be the months that have the biggest increase in successful kickstarter campaigns.  I would advise Louise to begin her kickstarter in May.  I would also advise her to avoid beginning a campaign in the months of November and December as the graph shows a decline in the number of successful campaigns.
-![Theater_Outcomes_vs_Launch](
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
