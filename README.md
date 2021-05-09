@@ -1,8 +1,7 @@
 # Kickstarter Challenge Analysis
 
-## Overview
+## Overview/Purpose
 
-### Purpose
 Louise is looking to start a kickstarter campaign to fund her theater project.  She is hopeful that looking at the data in different ways will give her some insights into how, when, and where she should begin asking for money.  If Louise is able to successfully analyze the data and create a strategy based on that analysis, 
 her chances of having a successful campaign improve dramatically.
 
