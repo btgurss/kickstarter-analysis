@@ -17,11 +17,11 @@ After completing the pivot table and subsequent line graph I was able to conclud
 
 ### Analysis of Outcomes Based on Goals
 I also created an analysis based on the goal amount of money each person asked for.  I began by creating a spreadsheet to observe the success rate of compaigns with different amounts of money being asked for.  I then used CountIfs functions to help count the number of plays that were successful, failed, or canceled for 12 different ranges of money.  For example, I used the following code: =COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<5000", Kickstarter!$R:$R, "plays") to count the number of plays that successfully made their goal amounts.  After repeating a similar line of code for failed and canceled campaigns, I then used the sum function to find the total number of plays with that goal.  I used this sum to help find the percentage of successful, failed, and canceld campaigns for each goal range.  Finally, I created a line graph to show the data in a more appeasing way.
-LINK TO GRAPH
+
 
 ## Conclusions Based on Goals
 This data shows an interesting trend.  It shows that the more money you ask for, the less successful you are until you hit about 30000 dollars.  The success rate then jumps almost back to the less than 1000 percent before quickly declining again.  This is most likely caused by the lack of data in the upper ranges.  I do not think enough data exists to claim that the jump is anything other than a coincidence.  The success rate for Louise, who is looking for 10000 dollars, is 54%.  
-
+![Outcomes_Vs_Goals]
 
 ### Challenges
 My biggest challenges were with formating the graphs.  It took me awhile to get the Goals graph to look appropriate.  Even now, I feel there may be a better way to present that data. Louise biggest challenge will be trying to decide which information is pertinent and which information is not needed for her to be successful.  There may be other categories of data that could be beneficial for her.
